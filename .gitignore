@@ -1,12 +1,4 @@
-# Ignore all files above 50MB (Manual Entry Needed)
-# Use `find . -type f -size +50M` to list large files
- 
-# Example: Ignore specific large files
-*.mp4
-*.iso
-*.zip
-*.tar.gz
-*.gguf
+
  
 # Ignore virtual environment folders
 venv/
